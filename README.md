@@ -48,8 +48,3 @@ Untuk demo bisa langsung ke cafe.araii.id
 username : cpena
 password : admin123
 ---
-
-## 📖 Penggunaan
-
-- **Halaman Pelanggan**: Akses `http://localhost:9098` untuk melihat menu dan melakukan pemesanan.
-- **Halaman Admin**: Akses `http://localhost:9098/login` untuk masuk ke dasbor admin.
