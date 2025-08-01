@@ -1,6 +1,6 @@
 # Aplikasi Pemesanan Cafe "Catatan Pena"
 
-Aplikasi web pemesanan mandiri (self-order) lengkap untuk sebuah kafe, dibangun dengan Node.js dan Express. Aplikasi ini dirancang untuk kemudahan penggunaan baik bagi pelanggan maupun admin, dengan fitur-fitur modern seperti pembayaran QRIS, kustomisasi menu, dan dasbor admin yang interaktif. Proyek ini dibuat dalam satu file untuk mempermudah proses deployment.
+Aplikasi web pemesanan mandiri (self-order) lengkap untuk sebuah kafe, dibangun dengan Node.js dan Express. Aplikasi ini dirancang untuk kemudahan penggunaan baik bagi pelanggan maupun admin, dengan fitur-fitur modern seperti pembayaran QRIS, kustomisasi menu, dan dasbor admin yang interaktif.
 
 ---
 
