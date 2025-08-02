@@ -44,7 +44,11 @@ Aplikasi web pemesanan mandiri (self-order) lengkap untuk sebuah kafe, dibangun 
 ## 🚀 Instalasi & Konfigurasi
 Hubungi saya melalui email support@araii.id
 
-Untuk demo bisa langsung ke cafe.araii.id
-username : cpena
-password : admin123
+- Untuk demo bisa langsung ke cafe.araii.id
+- ADMIN
+- username : cpena
+- password : admin123
+- KASIR
+- username : kasir
+- password : kasir123
 ---
