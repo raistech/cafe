@@ -46,7 +46,7 @@ Hubungi saya melalui email support@araii.id
 
 - Untuk demo bisa langsung ke cafe.araii.id
 - ADMIN
-- username : cpena
+- username : admin
 - password : admin123
 - KASIR
 - username : kasir
